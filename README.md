@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 !["workflow"](workflow.jpg)
 
 # PASAE Spring Boot Security OAuth2 JWT 
@@ -26,3 +27,6 @@ Por ejemplo para generar keystore.jks
 keytool -genkey -alias mytestkey -keyalg RSA -keystore keystore.jks -storepass mystorepass -dname "CN=WebServerPASAE,OU=Unit,O=Organization,L=City,S=State,C=AR"
 
 
+=======
+# pasae-spring-boot-security-oauth2-jwt
+>>>>>>> branch 'master' of https://github.com/mbecca/pasae-spring-boot-security-oauth2-jwt.git
